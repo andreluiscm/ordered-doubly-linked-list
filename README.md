@@ -1,1 +1,1 @@
-# ordered-doubly-linked-list
+# sorted-doubly-linked-list
